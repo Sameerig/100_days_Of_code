@@ -7,8 +7,8 @@ today =(now.month,now.day)
 ##################### Hard Starting Project ######################
 
 
-my_email = "sameersamig@yahoo.com"
-password ="ebswhplgrpshgzef"
+my_email = ""
+password =""
 
 
 
